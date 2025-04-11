@@ -18,6 +18,8 @@ Este projeto é uma implementação prática para resolver problemas de logísti
 3. Execute os testes:
    ```bash
    python teste.py
-4. Execute os testes:
+4. Visualizar calculo de estatısticas a respeito dos grafos:
    ```bash
-   jupyter notebook visualizacao.ipynb
+   jupyter notebook
+   ```
+   No navegador, selecione o arquivo visualizacao.ipynb.

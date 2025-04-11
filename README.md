@@ -11,7 +11,7 @@ Este projeto é uma implementação prática para resolver problemas de logísti
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Guilherme-Resende-Mendes/GCC218_Trabalho_Final.git
 2. Navegue até a pasta do projeto:
    ```bash
    cd GCC218_Trabalho_Final

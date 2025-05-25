@@ -85,14 +85,6 @@ Cada rota é detalhada em uma linha separada, com o seguinte formato:
 
 ---
 
-## ❗ Observações Importantes
-
-### 🚫 Instâncias e Soluções no Repositório
-As instâncias `.dat` e as soluções foram intencionalmente excluídas do repositório devido ao tamanho dos arquivos. Para testar e gerar suas próprias soluções, adicione manualmente os arquivos de instância à pasta `instancias/`.
-
-### ✅ Validação das Soluções
-Compare os resultados gerados com os valores de referência fornecidos no arquivo `reference_values.csv`. Isso ajuda a verificar a correção e a eficiência do seu algoritmo.
-
 ### 🤖 Automação de Testes
 Um script foi desenvolvido para automatizar o processamento de todas as instâncias disponíveis, salvando os arquivos diretamente em `solucoes/`.
 
